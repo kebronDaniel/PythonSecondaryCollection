@@ -1,6 +1,2 @@
-test_dict = {
-    "name": "Daniel",
-    "age": 60
-}
-
-print(test_dict["age"])
+test = [12, 3, 4, 5]
+print(sum(test))
